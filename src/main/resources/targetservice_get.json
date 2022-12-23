@@ -1,0 +1,8 @@
+{
+	"uri": "http://localhost:9080/targetService/age",
+	"reqtype": "1",
+	"paramtype": "1",
+	"iteration": "5",
+	"data" :"integer"
+	
+}

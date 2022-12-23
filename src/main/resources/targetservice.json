@@ -1,0 +1,18 @@
+{
+	"uri": "http://localhost:9080/targetService/createUser",
+	"reqtype": "2",
+	"paramtype": "n/a",
+	"iteration": "5",
+	"data": {
+		"name": "String",
+		"age": "integer",
+		"weight" : "double",
+		"dob" : "date"
+	},
+	"data": {
+		"name": "String",
+		"age": "integer",
+		"weight" : "double",
+		"dob" : "date"
+	}
+}
